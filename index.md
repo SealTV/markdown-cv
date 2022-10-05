@@ -22,7 +22,7 @@ Writing microservices in Go using PostgreSQL, Redis, Kafka, and Kubernetes.
 
 ### Work History
 
-#### **[Aviasales](https://aviasales.com)**, remote, `2022-present`
+**[Aviasales](https://aviasales.com)**, remote, `2022-present`
 
 I am working as a backend developer in the team which is developing two products.
 First, Aviasales Assisted - a product that allows clients to buy a ticket on a plane directly in-app, without redirecting to the air company website.
@@ -31,7 +31,7 @@ Second, Aviasales More - it's a subscription program that helps clients in diffe
 I am developing new features for what products and supporting legacy code.
 We are working with PostgreSQL and MongoDB, deploying our apps in Kubernetes by Jenkins CI.
 
-#### **[Vizor Games](http://vizor-games.com/)**, Minsk, Belarus, `2018-2021`
+**[Vizor Games](http://vizor-games.com/)**, Minsk, Belarus, `2018-2021`
 
 I came to the company as a client developer on Unreal Engine 4.
 We were developing epic PvP fighting [Blood of Heroes](https://bloodofheroes.online/).
@@ -43,34 +43,33 @@ Redis was used as a light cash server and the main data store for the matchmakin
 
 In developing microservices we used the TDD technique and clean architecture.
 
-
-#### **[Mail.Ru Group Studio Nord](http://corp.mail.ru/)**, St.Petersburg, Russia, `2017-2018`
+**[Mail.Ru Group Studio Nord](http://corp.mail.ru/)**, St.Petersburg, Russia, `2017-2018`
 
 Was working as client Unity developer on mobile game [Hustle Castle](https://play.google.com/store/apps/details?id=com.my.hc.rpg.kingdom.simulator). I was developing new gameplay features.
 
-#### **[Nival](http://ru.nival.com/)**, St.Petersburg, Russia, `2017-2017`
+**[Nival](http://ru.nival.com/)**, St.Petersburg, Russia, `2017-2017`
 
 Was working on a huge PC game [Blitzkrieg 3](https://store.steampowered.com/app/235380/Blitzkrieg_3/?l=russian).
 It was a project with a large code base.
 Was preparing this project for release.
 
-#### **Kuvalda**, Kaliningrad, Russia, `2016-2017`
+**Kuvalda**, Kaliningrad, Russia, `2016-2017`
 
 Was working as mobile Unity developer. From scratch developed a new game like Arkanoid.
 Create and integrate gameplay features.
 Create an in-game quest system. Based on the quest system was developed a tutorial system.  
 
-#### **Rhapsody Games**, Kaliningrad, Russia, `2016-2017`
+**Rhapsody Games**, Kaliningrad, Russia, `2016-2017`
 
 Supporting old code base and creating new features for a mobile 2D game Movie Studio Story on Unity.
 Creating CI pipline on Jenkins.
 
-#### **[Neolant](www.neolant.ru)**, Kaliningrad, Russia, `2015-2016`
+**[Neolant](www.neolant.ru)**, Kaliningrad, Russia, `2015-2016`
 
 Was developing nuclear disposal accounting system.
 Used for this project ASP.Net, Entity Framework 5, Bootstrap, JQuery, MS SQL Server, TFS
 
-#### **[Aigrind](https://aigrind.com)**, Kaliningrad, Russia, `2013-2015`
+**[Aigrind](https://aigrind.com)**, Kaliningrad, Russia, `2013-2015`
 
 As a member of a small team with other students started researching Unity 3D Engine and made some prototypes of games for the company.
 Developed compiler for internal DSL 'Crosstruct', which is used for serializing data packages between the game server and clients. (kind of Protobuf).
@@ -82,7 +81,6 @@ Made logining by Facebook and VK.com.
 
 `2010-2017`, **[Immanuel Kant Baltic Federal University](https://eng.kantiana.ru)**
 Mathematical Support and Information System Administration
-
 
 <!-- ### Footer
 
